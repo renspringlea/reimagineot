@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Home safety",
+    "description": "Evaluating your living environment and lifestyle to recommend personalised modifications (e.g., grab rails, ramps), adaptive equipment, and strategies to enhance safety, accessibility, and independence.",
+    "image": {
+      "url": "images/features/icon_house.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Reaching your goals",
+    "description": "Regain the activities that matter most to you — or imagine new ones — through personalised, goal-driven occupational therapy focused on restoring meaningful participation and improving your quality of life.",
+    "image": {
+      "url": "images/features/icon_stairs.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Equipment prescription",
+    "description": "Recommending the right support for your needs — from small aids through to complex equipment such as wheelchairs, electric beds, and recliner chairs.",
+    "image": {
+      "url": "images/features/icon_chair.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Dementia wellbeing",
+    "description": "Providing specialist support to help individuals living with dementia participate in meaningful activities, while empowering carers and families with the skills to connect and engage with their loved ones.",
+    "image": {
+      "url": "images/features/icon_brain.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Custom adaptive equipment",
+    "description": "Handcrafted, personalised adaptive aids and equipment designed and sewn to meet each client's unique functional needs.",
+    "image": {
+      "url": "images/features/icon_sew.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,0 +1,17 @@
+<div class="call">
+  <div class="call-box-top">
+    {% if site.data.contact.phone %}
+        <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+    {% endif %}
+    {% if site.data.contact.email %}
+    <div class="call-email"><strong>Email: </strong>
+      {{ site.data.contact.email }}
+    </div>
+    {% endif %}
+  </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="#contact" class="button">Contact</a>
+      </div>
+    {% endif %}
+</div>

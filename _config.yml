@@ -2,7 +2,7 @@ baseurl: '/'
 permalink: pretty
 title: 'Reimagine OT'
 
-logo:
+site_logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"

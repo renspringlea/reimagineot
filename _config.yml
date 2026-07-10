@@ -35,8 +35,12 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
+url: "https://reimagineot.com.au"
+
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
